@@ -1,0 +1,28 @@
+{
+  "questions": [
+    "What's your favorite color? ",
+    "Got a pet? What's its name? ",
+    "First crush's name? ",
+    "Favorite band or song? ",
+    "Birth year? ",
+    "Any special date (like MMDDYYYY)? ",
+    "Favorite sports team? ",
+    "Childhood nickname? ",
+    "Favorite movie or character? ",
+    "Mom’s maiden name? ",
+    "First car make or model? ",
+    "Favorite food or drink? ",
+    "Hometown or street name? ",
+    "Favorite number? ",
+    "Dream vacation spot? ",
+    "Favorite book or author? ",
+    "High school mascot? ",
+    "First job or workplace? ",
+    "Partner’s or best friend’s name? ",
+    "Random word you love? ",
+    "Favorite animal? ",
+    "Childhood hero? "
+  ],
+  "suffixes": ["123", "!", "@", "2023", "2025", "!!", "@#", "pwd", "2024"],
+  "prefixes": ["my", "super", "best"]
+}

@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: beastpw
+Version: 3.0.0
+Summary: Rebel Password Generator for ethical hacking and CTFs
+Author: PlinyTheHacker
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Dynamic: author
+Dynamic: classifier
+Dynamic: requires-python
+Dynamic: summary
